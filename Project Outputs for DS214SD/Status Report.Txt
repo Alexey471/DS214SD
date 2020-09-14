@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [DS214SD.PrjPCB]
+   Generated File[DS214SD.BOM]
+   Generated File[DS214SD.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 13:05:53 On 17.07.2009

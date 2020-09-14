@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: DS214SD.PcbDoc   16.07.2009  16:40:23
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        24mil (0.6096mm)         83               44.70 Inch (1135.35 mm)
+T2        35mil (0.889mm)          72               37.75 Inch (958.83 mm)
+T3        45mil (1.143mm)          6                16.30 Inch (414.04 mm)
+T4        47mil (1.1938mm)         2                12.57 Inch (319.22 mm)
+T5        55mil (1.397mm)          17               25.77 Inch (654.63 mm)
+T6        70mil (1.778mm)          3                14.93 Inch (379.33 mm)
+T7        79mil (2.0066mm)         20               10.41 Inch (264.46 mm)
+T8        130mil (3.302mm)         11               25.00 Inch (635.04 mm)
+---------------------------------------------------------------------------
+Totals                             214              187.44 Inch (4760.90 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

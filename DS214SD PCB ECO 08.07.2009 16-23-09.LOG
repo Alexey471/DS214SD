@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+5V Pin=D2_1-1
+Removed Pin From Net: NetName=+5V Pin=D2_2-1
+Removed Member From Class: ClassName=1 Member=D2_1
+Removed Member From Class: ClassName=2 Member=D2_2
+Change Component Comment : Designator=JP5_2 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP5_1 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP4_2 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP4_1 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP3_2 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP3_1 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP2_2 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP2_1 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP1_2 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Change Component Comment : Designator=JP1_1 Old Comment=BNC-RJ New Comment=BNC-RJ-SD
+Added Component: Designator=J4_1(2SIP100)
+Added Component: Designator=J4_2(2SIP100)
+Added Pin To Net: NetName=+5V Pin=J4_1-1
+Added Pin To Net: NetName=+5V Pin=J4_2-1
+Added Pin To Net: NetName=NetJ4_1_2 Pin=J4_1-2
+Added Pin To Net: NetName=NetJ4_1_2 Pin=R13_1-2
+Added Net: Name=NetJ4_1_2
+Added Pin To Net: NetName=NetJ4_2_2 Pin=J4_2-2
+Added Pin To Net: NetName=NetJ4_2_2 Pin=R13_2-2
+Added Net: Name=NetJ4_2_2
+Added Member To Class: ClassName=1 Member=Component J4_1 (J4) HEAD2
+Added Member To Class: ClassName=2 Member=Component J4_2 (J4) HEAD2
