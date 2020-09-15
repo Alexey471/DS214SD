@@ -1,2 +1,2 @@
 # DS214SD
-Ferst step
+First step
